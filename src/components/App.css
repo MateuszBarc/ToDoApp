@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+h3 {
+  background-color: bisque;
+  font-size: 25px;
+}
+
+h2 {
+  background-color: beige;
+}
+
+body {
+  background-color: #61dafb;
+}
+
+button {
+  margin: 5px;
+  padding: 5px;
+  border: #282c34 solid 2px;
+  text-transform: uppercase;
+
+  font-family: serif;
+
+}
+
+h1 {
+  background-color: burlywood;
+  margin-left: 150px;
+  margin-right: 150px;
+}
